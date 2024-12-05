@@ -23,4 +23,9 @@
 - Klasik redux'ta aksiyonları, aksiyon tiplerini, reducerları ayrı dosyalarda tanımlıyorduk.
 
 - redux toolkit içerisinde yer alan slice yapısı sayesinde tek bir noktada hem reducer'ı hem aksiyonları hem de aksiyon tiplerini tanımlayabiliyoruz.
+
 # REACT-TOOLKIT-CRUD-APP
+
+<h5>Gif Dosyası Eklendi</h5>
+
+![](tanıtım.gif)
